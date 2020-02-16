@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	  Paula Fugaro		paulafugaro@gmail.com		@psfugaro
 
 # THANKS
 
